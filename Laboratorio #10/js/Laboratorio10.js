@@ -1,5 +1,5 @@
 // Parte 1 
-let nombre = "orlando"
+let nombre = "elis"
 let edad = 19
 let esEstudiante = true
 
@@ -40,8 +40,8 @@ let necesitaPermiso = esMayorDeEdad || tieneLicencia;
 console.log(`¿La persona puede conducir? ${puedeConducir}`);
 console.log(`¿La persona puede conducir con alguna condición (mayor de edad o licencia)? ${necesitaPermiso}`);
 
-let nombres="Orlando";
-let apellido="Duran";
+let nombres="elis";
+let apellido="lengua";
 
 let bienvenida="¡Bienvenido Sr "+nombre+""+apellido+"! esperamos que disfrutes tu estancia";
 let bienvenidaTemplate= `¡Bienvenido Sr, ${nombre} ${apellido} espero que le vaya super bien en su día`;
